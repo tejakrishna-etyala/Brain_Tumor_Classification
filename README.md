@@ -3,7 +3,11 @@
 This project is a deep learning-based web application that classifies brain tumors using MRI images. It uses **transfer learning** with the **VGG16** architecture from TensorFlow/Keras and features a user-friendly interface built with **Streamlit**.
 
 
-## Deployment link (https://braintumorclassification-c7itnhexug7nx7nnpvgnog.streamlit.app/)
+<h4>🔗 Deployment link</h4>
+<p style="font-size:14px;">
+  <a href="https://braintumorclassification-c7itnhexug7nx7nnpvgnog.streamlit.app/">Click here to open the deployed app</a>
+</p>
+
 
 ## 🚀 Demo
 
